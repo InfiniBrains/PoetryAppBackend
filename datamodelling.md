@@ -5,7 +5,7 @@ author
 -	borndate
 -	bornlocation
 -	bio
--	countries
+-	locationsid
 
 location
 -	id
@@ -18,7 +18,7 @@ contentroot
 -	locationid
 -	datewriten
 -   school
--   category
+-   categoriesid
 
 content
 -	id
@@ -32,13 +32,7 @@ content
 category
 - id
 - name
-# fable, cite, chronicle, poem, haiku, 
-
-poem
--	id
--	contentid
--	categories
--	school
+```ex. fable, cite, chronicle, poem, haiku,``` 
 
 school
 -	id
